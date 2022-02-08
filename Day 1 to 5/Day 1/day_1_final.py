@@ -1,3 +1,4 @@
+#Band name generator
 import os
 x = True
 while x:

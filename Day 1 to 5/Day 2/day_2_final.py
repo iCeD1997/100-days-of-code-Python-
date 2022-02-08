@@ -1,3 +1,4 @@
+#Tip Calculator
 import os
 
 print("Welcome to the tip calculator!")
